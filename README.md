@@ -23,7 +23,7 @@ The core goal of this case study is to build a report using Walmart sales data c
 ### Problem Statement
 By analyzing various aspects of Walmart's Sales data, I seek to gain insight to understand the different factors that will improve sales performance by addressing gaps.
 ### Data Sources 
-The dataset is used from Kaggle.com and added as a Walmart Sales Data file.
+The dataset is used from Kaggle.com and a cleaned file as a "Walmart Sales Data" file is added here.
 The dataset has over unique 8047 customer records with 16 different fields collected between 2011 and 2014.
 ### Tools 
 Tools used for Data Cleaning, EDA, and Visualization :
